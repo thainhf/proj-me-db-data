@@ -10,6 +10,7 @@ Blob detected/**
 Dataset/**
 experiments/**
 Copy of 650411_ฐานข้อมูลเครือข่ายนักประเมิน_จากลิ้ง.xlsx
+API_KEY.json
 
 # Thumbnail cache files
 ._*
@@ -18,6 +19,7 @@ Thumbs.db
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
+.env
 
 # Compiled Python files
 *.pyc
